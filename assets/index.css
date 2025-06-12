@@ -1,0 +1,58 @@
+* {
+    font-family: hack, 'Fira Code', monospace;
+    /*outline: red 1px solid;*/
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.list-container {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    list-style-type: none;
+    margin-top: 150px;
+    margin-left: auto;
+    background-color: #00809D;
+    padding: 20px 40px;
+    border-radius: 30px;
+}
+
+a {
+    color: #F3A26D;;
+    -webkit-text-stroke: #FCECDD 1px;
+    font-weight: bolder;
+    font-size: larger;
+    text-decoration: none;
+}
+
+
+
+
+.list-item {
+    margin: 20px 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #00809D;
+    -webkit-text-stroke: #FCECDD 1px;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+	margin-left: auto;
+	margin-right: auto;
+    width: 340px;
+    height: 240px;
+}
+
+
+
